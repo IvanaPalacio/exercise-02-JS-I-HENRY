@@ -11,6 +11,6 @@ Declaraciones if: Sirve para condicionar varias cosas, es como decir: " si esto 
 Dando a si varias opciones, también se puede ejecutar una de las condiciones junto con 
 un string ya designado, este ultimo se ejecutaría siempre con cualquiera de las condiciones de arriba.
 
-Valores booleanos (true, false):
+Valores booleanos(true, false):
 Los booleanos provienen de la lógica de Boole. Escencialmente significa que tiene dos opciones.
 En Javascript usamos booleanos para significar verdadero o falso. 
