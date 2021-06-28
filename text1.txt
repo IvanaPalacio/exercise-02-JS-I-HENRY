@@ -1,0 +1,16 @@
+Variables:Es una forma de alamcenar el valor de algo para utilizar mas adelante.
+
+Strings:cadena de texto entre comillas
+
+Funciones (argumentos, return):Una función es un objeto invocable, modifican a las variables.
+un argumentos es una variable que se puede utilizar dentro de la función.
+Al return lo podemos ver como la única forma en que los datos escapan de una función,
+al hacer return pedimos que nos muestre el dato que pedimos de manera inmediata.
+
+Declaraciones if: Sirve para condicionar varias cosas, es como decir: " si esto no sucede, sucederá lo otro o lo otro".
+Dando a si varias opciones, también se puede ejecutar una de las condiciones junto con 
+un string ya designado, este ultimo se ejecutaría siempre con cualquiera de las condiciones de arriba.
+
+Valores booleanos (true, false):
+Los booleanos provienen de la lógica de Boole. Escencialmente significa que tiene dos opciones.
+En Javascript usamos booleanos para significar verdadero o falso. 
